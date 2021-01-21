@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerHiltExample</string>
+    <string name="string_to_inject">To tekst, który będziemy wstrzykiwać też</string>
+</resources>
